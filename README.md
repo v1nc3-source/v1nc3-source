@@ -20,13 +20,13 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
-<img align="left" width="26px" src="https://http://www.simpleicons.org/icons/gnubash.svg" />
 <img align="left" alt="Raspberry-pi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" width="26px" src="https://media.giphy.com/media/SUcB0owraTQu3Iddgp/giphy.gif" >
 
 
 <br />
+  <img width="650" src="https://media.giphy.com/media/3o7TKHKjrDyqphX9Cg/giphy.gif">
 <br />
 
 ---
