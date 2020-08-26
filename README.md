@@ -9,7 +9,7 @@
 - 🔭 I’m currently playing CTF on HackTheBox/TryHackMe
 - 🌱 I’m currently learning 🐍 
 - 🌱 I’m currently learning EVERYTHING! 🤯
-- 🥅 2020 Goals: improve preparation for the OSCP (Offensive Security Certified Professional)
+- 🥅 2020 Goals: survive covid and improve preparation for the OSCP (Offensive Security Certified Professional)
 
 
 <br />
