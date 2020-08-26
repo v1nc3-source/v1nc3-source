@@ -4,7 +4,7 @@
   <img width="650" src="https://media.giphy.com/media/SYLGKpDF0MBjWROfo8/giphy.gif">
 </p>
 
-### _I'm a Student with a strong passion for cybersecurity, on GitHub you can find my <del>shit</del> code
+### I'm a Student with a strong passion for cybersecurity, on GitHub you can find my <del>shit</del> code
 
 - 🔭 I’m currently playing CTF on HackTheBox/TryHackMe
 - 🌱 I’m currently learning 🐍 
