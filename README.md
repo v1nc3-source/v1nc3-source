@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently playing CTF on HackTheBox/TryHackMe
 - 🌱 I’m currently learning python 🐍 
-- 🌱 I’m currently learning EVERYTHING! 🤯
+- 🌱 I’m currently hacking NASA with HTML! 🤯
 - 🥅 2020 Goals: survive covid and improve preparation for the OSCP (Offensive Security Certified Professional)
 
 
