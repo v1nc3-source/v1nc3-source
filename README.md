@@ -7,9 +7,8 @@
 ### I'm a Student with a strong passion for cybersecurity, on GitHub you can find my <del>shit</del> code
 
 - 🔭 I’m currently playing CTF on HackTheBox/TryHackMe
-- 🌱 I’m currently learning python 🐍 
-- 👨‍💻 I’m currently hacking NASA with HTML! 🚀 🤯
-- 🥅 2020 Goals: survive covid and improve preparation for the OSCP (Offensive Security Certified Professional)
+- 🌱 Automating boring stuff with python 🐍 
+- 🥅 2020 Goals: survive covid and improve preparation for the OSCP 
 
 
 <br />
