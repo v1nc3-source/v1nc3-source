@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently playing CTF on HackTheBox/TryHackMe
 - 🌱 Automating boring stuff with python 🐍 
-- 🥅 2020 Goals: survive covid and improve preparation for the OSCP 
+- 🥅 2021 Goals: survive covid and pass OSCP 
 
 
 <br />
