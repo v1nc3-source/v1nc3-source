@@ -2,7 +2,7 @@
 
 
   
-  <img width="260" src="https://media.giphy.com/media/a8XXAqHC5tZYs/source.gif">
+  <img width="280" src="https://media.giphy.com/media/a8XXAqHC5tZYs/source.gif">
 </p>
 
 ### I'm a Student with a strong passion for cybersecurity, on GitHub you can find my <del>shit</del> code
