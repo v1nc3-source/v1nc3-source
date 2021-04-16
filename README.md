@@ -17,8 +17,7 @@
 ### Languages and Tools:
 
 
-<img align="left" alt="elementary" width="26px" src="https://user-images.githubusercontent.com/70106609/115003519-2bb56500-9ea6-11eb-9398-68bf54356125.png
-" />
+<img align="left" alt="elementary" width="26px" src="https://user-images.githubusercontent.com/70106609/115003519-2bb56500-9ea6-11eb-9398-68bf54356125.png" />
 
 <img align="left" alt="elementary" width="26px" src="https://elementary.io/images/icons/places/128/distributor-logo.svg" />
 
