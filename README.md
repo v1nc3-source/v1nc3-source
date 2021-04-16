@@ -17,9 +17,9 @@
 ### Languages and Tools:
 
 
-
-<img align="left" alt="Ubuntu" width="26px" src="https://user-images.githubusercontent.com/70106609/115003077-bea1cf80-9ea5-11eb-9eb9-d95dd1ddb0b7.png)
+<img align="left" alt="elementary" width="26px" src="![immagine](https://user-images.githubusercontent.com/70106609/115003288-f3158b80-9ea5-11eb-9193-2a3d8e939f35.png)
 " />
+
 <img align="left" alt="elementary" width="26px" src="https://elementary.io/images/icons/places/128/distributor-logo.svg" />
 
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
