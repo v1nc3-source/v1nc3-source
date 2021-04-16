@@ -32,6 +32,6 @@
 
 <br />
 <br />
-  <img width="200" src="https://media.giphy.com/media/3o7TKHKjrDyqphX9Cg/giphy.gif">
+  
 
 ---
