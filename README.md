@@ -27,7 +27,7 @@
 
 <img align="left" alt="Raspberry-pi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/70106609/115004167-d037a700-9ea6-11eb-99f4-bdc4903d3c80.png" />
+<img align="left" alt="Python" width="27px" src="https://user-images.githubusercontent.com/70106609/115004167-d037a700-9ea6-11eb-99f4-bdc4903d3c80.png" />
 <img align="left" width="26px" src="https://media.giphy.com/media/SUcB0owraTQu3Iddgp/giphy.gif" >
 
 
