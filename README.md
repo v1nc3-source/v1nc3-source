@@ -17,11 +17,11 @@
 ### Languages and Tools:
 
 
-<img align="left" alt="elementary" width="26px" src="https://user-images.githubusercontent.com/70106609/115003878-83ec6700-9ea6-11eb-85ea-2dcf24ae7a10.png" />
+<img align="left" alt="elementary" width="25px" src="https://user-images.githubusercontent.com/70106609/115003878-83ec6700-9ea6-11eb-85ea-2dcf24ae7a10.png" />
 
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 
-<img align="left" alt="Android" width="26px" src="https://user-images.githubusercontent.com/70106609/115141972-8930e980-a03f-11eb-81da-21bd176fb7f0.png" />
+<img align="left" alt="Android" width="24px" src="https://user-images.githubusercontent.com/70106609/115141972-8930e980-a03f-11eb-81da-21bd176fb7f0.png" />
 
 <img align="left" alt="ghidra" width="26px" src="https://raw.githubusercontent.com/github/explore/025dc54b4cae71dcd3ff17e7a146d3365d87f665/topics/ghidra/ghidra.png" />
 
