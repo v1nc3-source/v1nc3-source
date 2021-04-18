@@ -35,7 +35,7 @@
 <img align="left" alt="Python" width="27px" src="https://user-images.githubusercontent.com/70106609/115004167-d037a700-9ea6-11eb-99f4-bdc4903d3c80.png" />
 <img align="left" alt="Raspberry-pi" width="36px" src="https://user-images.githubusercontent.com/70106609/115142152-7bc82f00-a040-11eb-9800-5fedff7e165a.png" />
 
-<img align="left" width="26px" src="https://media.giphy.com/media/SUcB0owraTQu3Iddgp/giphy.gif" >
+<img align="left" width="25px" src="https://media.giphy.com/media/SUcB0owraTQu3Iddgp/giphy.gif" >
 
 
 
