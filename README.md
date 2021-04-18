@@ -5,7 +5,7 @@
   <img width="300" src="https://media.giphy.com/media/6ACAEXVltLCVy/source.gif">
 </p>
 
-### I'm a Student with a strong passion for Cybersecurity, on GitHub you can find my <del>shitty</del> code
+### I'm a Student with a strong passion for <del>breaks stuff</del> Cybersecurity, on GitHub you can find my <del>shitty</del> code
 
 - 🔭 I’m currently playing CTF on HackTheBox/TryHackMe
 - 🌱 Automating boring stuff with python 🐍 
