@@ -5,11 +5,11 @@
   <img width="300" src="https://media.giphy.com/media/6ACAEXVltLCVy/source.gif">
 </p>
 
-### I'm a Student with a strong passion for <del>breaks stuff</del> Cybersecurity, on GitHub you can find my <del>shitty</del> code
+### I'm a Student with a strong passion for <del>breaking things</del> Cybersecurity, on GitHub you can find my <del>shitty</del> code
 
-- 🔭 I’m currently playing CTF on HackTheBox/TryHackMe
-- 🌱 Automating boring stuff with python 🐍 
-- 🥅 2021 Goals: survive covid and pass OSCP 
+- 💥 I’m currently playing CTF 🏴‍☠️
+- 🌱 Automating boring stuff with Python 🐍 
+- 🥅 2021 Goals: complete 2020 goals! 🐌
 
 
 <br />
