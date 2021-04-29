@@ -9,8 +9,7 @@
 
 - 💥 I’m currently playing CTF 🏴‍☠️
 - 🌱 Automating boring stuff with Python 🐍 
-- <img align="left" alt="Raspberry-pi" width="2px" src="https://user-images.githubusercontent.com/70106609/115142070-05c3c800-a040-11eb-939a-903d88e48d59.png" /> is not
-
+- <img align="left" alt="elementary" width="5px" src="https://user-images.githubusercontent.com/70106609/115003878-83ec6700-9ea6-11eb-85ea-2dcf24ae7a10.png" />
 - 🥅 2021 Goals: complete 2020 goals! 🐌
 
 
