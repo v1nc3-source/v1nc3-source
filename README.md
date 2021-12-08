@@ -7,7 +7,7 @@
 
 ### I'm a Student with a strong passion for <del>breaking things</del> Cybersecurity, on GitHub you can find my <del>shitty</del> code
 
-- 💥 I’m currently playing CTF 🏴‍☠️
+
 - 🌱 Automating boring stuff with Python 🐍 
 - 🥅 2021 Goals: complete 2020 goals! 🐌
 
