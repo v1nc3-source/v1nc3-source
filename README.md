@@ -5,7 +5,7 @@
   <img width="300" src="https://media.giphy.com/media/6ACAEXVltLCVy/source.gif">
 </p>
 
-### I'm a Student with a passion for <del>breaking things</del> Cybersecurity, on GitHub you can find my <del>shitty</del> code
+### A Student with a passion for <del>breaking things</del> Cybersecurity, on GitHub you can find my <del>shitty</del> code
 
 
 - 🌱 Automating boring stuff with Python 🐍 
