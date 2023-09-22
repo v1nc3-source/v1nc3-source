@@ -9,7 +9,7 @@
 
 
 - 🌱 Automating boring stuff with Python 🐍 
-- 🥅 2022 Goals: complete 2020 goals! 🐌
+- 🥅 2023 Goals: complete 2020 goals! 🐌
 
 
 <br />
